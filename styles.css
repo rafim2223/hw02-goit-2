@@ -75,10 +75,11 @@
 }
 .header-second {
   font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-size: 36px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .header-third {
   font-size: 36px;
@@ -112,7 +113,6 @@
   color: #fff;
 }
 .section-second {
-  background-color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -121,13 +121,14 @@
 }
 
 .section-third {
-  background: #2e2f42;
+  background-color: #f4f4fd;
   font-family: "Roboto";
-  font-size: 36p20px;
+  font-size: 36px;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #434455;
 }
 
@@ -161,10 +162,15 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #f4f4fd;
 }
 .list-item-second {
   background-color: #ffffff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .footer {
   font-size: 36px;
