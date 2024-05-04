@@ -34,10 +34,7 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.span {
-  color: #2e2f42;
-  text-transform: uppercase;
-}
+
 .body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -82,8 +79,8 @@
   text-transform: capitalize;
 }
 .header-third {
-  font-size: 36px;
-  line-height: 1.11;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
@@ -150,7 +147,7 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #404bbf;
+  color: #2e2f42;
 }
 .link :hover {
   color: #404bbf;
@@ -210,6 +207,10 @@
 }
 .logo-2 {
   font-family: "Raleway", sans-serif;
+}
+.span {
+  color: #2e2f42;
+  text-transform: uppercase;
 }
 .paragraph-row {
   font-size: 16px;
