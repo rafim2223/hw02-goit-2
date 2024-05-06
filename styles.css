@@ -152,7 +152,7 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
 .link :hover {
   color: #404bbf;
@@ -216,7 +216,7 @@
   text-decoration: none;
 }
 .span {
-  color: #f4f4fd;
+  color: #2e2f42;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -225,6 +225,7 @@
   letter-spacing: 0.03em;
   text-decoration: none;
 }
+
 .adress {
   font-style: normal;
   font-size: 16px;
