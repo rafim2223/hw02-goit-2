@@ -129,9 +129,9 @@
   font-family: "Roboto";
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
+  text-transform: capitalize;
   background: #f4f4fd;
 
   border-style: solid;
@@ -245,5 +245,5 @@
 }
 .paragraph-footer {
   color: #f4f4fd;
-  line-height: 1, 5;
+  line-height: 1.5;
 }
