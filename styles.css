@@ -89,6 +89,7 @@
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  font-weight: 500;
 }
 .button {
   background-color: #4d5ae5;
