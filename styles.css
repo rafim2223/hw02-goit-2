@@ -58,8 +58,8 @@
 }
 .header-second {
   font-weight: 500;
-  font-size: 36px;
-  line-height: 1.11;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-transform: capitalize;
@@ -246,4 +246,10 @@
 .paragraph-footer {
   color: #f4f4fd;
   line-height: 1.5;
+}
+.section-third-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
