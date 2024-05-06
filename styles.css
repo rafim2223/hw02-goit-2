@@ -208,7 +208,17 @@
 }
 .color-second {
   font-family: "Raleway", sans-serif;
-  color: #4d5ae5;
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.color-second-2 {
+  font-family: "Raleway", sans-serif;
+  color: #f4f4fd;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
