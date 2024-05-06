@@ -71,6 +71,7 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+
   color: #2e2f42;
 }
 .header-fourth {
@@ -136,6 +137,7 @@
   background: #f4f4fd;
   border-style: solid;
   border-color: #e7e9fc;
+  text-align: center;
 }
 .link {
   font-weight: 500;
