@@ -101,10 +101,10 @@
   color: #ffffff;
   cursor: pointer;
 }
-.button :hover {
+.button:hover {
   background-color: #404bbf;
 }
-.button :focus {
+.button:focus {
   background-color: #404bbf;
 }
 .section-first {
@@ -154,14 +154,11 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.a {
-  line-height: 1.5;
-  color: #434455;
-}
-.link :hover {
+
+.link:hover {
   color: #404bbf;
 }
-.link :focus {
+.link:focus {
   color: #404bbf;
 }
 .list-item {
