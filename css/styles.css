@@ -68,6 +68,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-transform: capitalize;
+  padding: 188px 0;
 }
 .header-third {
   font-size: 36px;
@@ -323,6 +324,7 @@
   gap: 40px;
 }
 .div-first {
+  padding: 188px 0;
 }
 .img {
   display: block;
