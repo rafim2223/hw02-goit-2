@@ -24,6 +24,8 @@
 
 .page-nav {
   background-color: #fff;
+  display: flex;
+  align-items: center;
 
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -54,7 +56,9 @@
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
+  border-bottom: 1px solid #e7e9fc;
 }
+
 .header-second {
   font-weight: 500;
   font-size: 20px;
@@ -219,6 +223,7 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 .color-second {
   font-family: "Raleway", sans-serif;
@@ -229,6 +234,7 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
+  margin-right: 76px;
 }
 .color-third {
   font-family: "Raleway", sans-serif;
@@ -272,4 +278,34 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+* {
+  box-sizing: border-box;
+}
+.menu {
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0 auto;
+}
+.div-header {
+  list-style: none;
+  border-radius: 4px;
+  background-color: #2196f3;
+  align-items: center;
+  gap: 40px;
+}
+.div-header .link {
+  display: block;
+
+  text-decoration: none;
+
+  text-transform: uppercase;
+  align-items: center;
+  margin-right: 40px;
+}
+.item {
+  padding: 24px 0;
+  gap: 40px;
 }
