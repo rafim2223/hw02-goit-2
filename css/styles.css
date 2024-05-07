@@ -262,6 +262,8 @@
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
+  display: flex;
+  gap: 40px;
 }
 .paragraph-row {
   font-size: 16px;
@@ -284,10 +286,14 @@
 }
 .menu {
   display: flex;
+  padding: 24px 0;
+  gap: 40px;
 }
 .container {
   width: 1158px;
   margin: 0 auto;
+  display: flex;
+  padding: 0 15px;
 }
 .div-header {
   list-style: none;
