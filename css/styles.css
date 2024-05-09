@@ -58,7 +58,6 @@
   text-align: center;
   letter-spacing: 0.02em;
   border-bottom: 1px solid #e7e9fc;
-
   max-width: 496px;
 }
 
@@ -69,7 +68,9 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-transform: capitalize;
-  padding: 188px 0;
+  margin-bottom: 8px;
+
+  visibility: hidden;
 }
 .header-third {
   font-size: 36px;
@@ -128,6 +129,7 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  padding: 188px 0;
 }
 .section-second {
   font-weight: 500;
@@ -135,6 +137,7 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #fff;
+  padding: 120px 0;
 }
 
 .section-third {
@@ -176,6 +179,7 @@
   color: #434455;
   padding: 24px;
   margin: 18px;
+  padding: 24px 0;
 }
 
 .link:hover {
@@ -293,17 +297,17 @@
   padding: 24px 0;
   gap: 40px;
 }
+.menu-second {
+  display: flex;
+  gap: 40px;
+}
 
 .div-header {
   list-style: none;
   border-radius: 4px;
-  background-color: #2196f3;
   align-items: center;
   gap: 40px;
-  width: 1158px;
   display: flex;
-  margin: 0 auto;
-  padding: 0 15px;
 }
 .adress {
   font-style: normal;
@@ -311,6 +315,7 @@
   letter-spacing: 0.02em;
   color: #434455;
   display: flex;
+  gap: 40px;
 }
 .container {
   width: 1158px;
@@ -333,11 +338,20 @@
   gap: 40px;
 }
 .div-first {
-  padding: 188px 0;
   margin: 0 auto;
+}
+.div-second {
+  padding: 120px 0;
 }
 .menu-adress {
   display: flex;
   padding: 24px 0;
   gap: 40px;
+}
+.list-second-section {
+  display: flex;
+  gap: 24px;
+}
+.list-item-second-section {
+  flex-basis: calc(100% - 72px) / 4;
 }
