@@ -63,6 +63,18 @@
   max-width: 496px;
   align-items: center;
 }
+.header-top-line {
+  color: #fff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  border-bottom: 1px solid #e7e9fc;
+  max-width: 496px;
+  align-items: center;
+  margin: auto 0;
+  padding: auto 0;
+}
 
 .header-second {
   font-weight: 500;
@@ -332,6 +344,7 @@
   list-style: none;
   border-radius: 4px;
   align-items: center;
+  justify-content: space-between;
   gap: 40px;
   display: flex;
 }
