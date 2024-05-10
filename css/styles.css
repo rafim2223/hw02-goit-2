@@ -417,7 +417,7 @@
   border-top: none;
   margin-bottom: 8px;
 }
-<<<<<<< Updated upstream
+
 .list-item-second-section {
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
@@ -438,8 +438,8 @@
   row-gap: 48px;
   width: calc((100% - 48px) / 3);
   list-style-type: none;
-=======
+}
+
 .div-fourth {
   display: flex;
->>>>>>> Stashed changes
 }
