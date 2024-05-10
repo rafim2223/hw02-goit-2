@@ -195,7 +195,6 @@
   text-decoration: none;
   text-transform: lowercase;
   font-weight: 400;
-
 }
 
 .link:hover {
@@ -233,7 +232,6 @@
 .footer {
   font-size: 36px;
   line-height: 1.11px;
-  text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
@@ -308,7 +306,7 @@
   color: #f4f4fd;
   line-height: 1.5;
   max-width: 264px;
-  font-size: :16px;
+  font-size: 16px;
 }
 .section-third-p {
   font-size: 16px;
@@ -348,7 +346,7 @@
 .container {
   width: 1158px;
   padding: 0 15px;
-  margin: 0 auto ;
+  margin: 0 auto;
 }
 .div-header .link {
   display: block;
