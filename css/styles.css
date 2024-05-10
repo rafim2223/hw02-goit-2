@@ -264,6 +264,7 @@
   margin-right: 76px;
   display: inline-block;
   text-decoration: none;
+  padding: 24px 0;
 }
 .color-second {
   font-family: "Raleway", sans-serif;
@@ -314,6 +315,7 @@
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
+  font-weight: 400;
 }
 
 * {
@@ -351,10 +353,8 @@
 .div-header .link {
   display: block;
   text-decoration: none;
-
   text-transform: uppercase;
   align-items: center;
-  margin-right: 40px;
 }
 .item {
   padding: 24px 0;
@@ -394,10 +394,12 @@
   border-radius: 0px 0px 4px 4px;
   list-style-type: none;
   width: calc((100% - 72px) / 4);
+  background-color: #ffffff;
 }
 .list-third-section {
   display: flex;
   gap: 24px;
+  background-color: #ffffff;
 }
 .worker {
   display: flex;
@@ -432,7 +434,6 @@
 
 .div-fourth {
   display: flex;
-  background-color: #ffffff;
 }
 .list-section-fourth {
   display: flex;
