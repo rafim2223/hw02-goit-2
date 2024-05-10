@@ -182,8 +182,6 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  list-style-type: none;
-  padding: 24px 0;
 }
 .link-second {
   font-weight: 500;
@@ -396,15 +394,6 @@
 .list-second-section {
   display: flex;
   gap: 24px;
-}
-.list-section-fourth {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 40px;
-  row-gap: 48px;
-  column-gap: 24px;
-  align-items: center;
-  justify-content: center;
 }
 .list-item-third-section {
   width: calc((100% - 72px) / 4);
