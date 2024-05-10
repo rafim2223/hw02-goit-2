@@ -450,3 +450,6 @@
   justify-content: center;
   gap: 20px;
 }
+.link-footer {
+  display: inline-block;
+}
