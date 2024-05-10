@@ -99,11 +99,6 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-transform: capitalize;
-  text-align: center;
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
   margin-bottom: 8px;
 }
 .header-section {
@@ -197,6 +192,10 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-weight: 400;
+
 }
 
 .link:hover {
@@ -254,6 +253,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-weight: 400;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -412,7 +412,6 @@
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  margin-bottom: 8px;
 }
 
 .list-item-second-section {
