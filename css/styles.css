@@ -201,9 +201,6 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding: 24px;
-  margin: 18px;
-  padding: 24px 0;
 }
 
 .link:hover {
@@ -283,7 +280,6 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  margin-right: 76px;
 }
 .color-third {
   font-family: "Raleway", sans-serif;
@@ -330,7 +326,7 @@
 }
 .menu {
   display: flex;
-  padding: 24px 0;
+
   gap: 40px;
   list-style-type: none;
 }
@@ -338,15 +334,9 @@
   display: flex;
   gap: 40px;
   list-style-type: none;
-  margin-right: 40px;
 }
 
 .div-header {
-  list-style: none;
-  border-radius: 4px;
-  align-items: center;
-  justify-content: space-between;
-  gap: 40px;
   display: flex;
 }
 .adress {
@@ -362,13 +352,9 @@
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
-  display: flex;
-  align-items: center;
 }
 .div-header .link {
   display: block;
-  padding: 0 15px;
-  margin: 0 auto;
   text-decoration: none;
 
   text-transform: uppercase;
@@ -467,4 +453,20 @@
 .link-footer {
   display: inline-block;
   margin-bottom: 16px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
