@@ -59,7 +59,6 @@
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  border-bottom: 1px solid #e7e9fc;
   max-width: 496px;
   align-items: center;
 }
@@ -70,10 +69,6 @@
   text-align: center;
   letter-spacing: 0.02em;
   border-bottom: 1px solid #e7e9fc;
-  max-width: 496px;
-  align-items: center;
-  margin: auto 0;
-  padding: auto 0;
 }
 
 .header-second {
@@ -270,7 +265,7 @@
   color: #4d5ae5;
   margin-right: 76px;
   display: inline-block;
-  margin-bottom: 16px;
+  text-decoration: none;
 }
 .color-second {
   font-family: "Raleway", sans-serif;
@@ -313,6 +308,7 @@
   color: #f4f4fd;
   line-height: 1.5;
   max-width: 264px;
+  font-size: :16px;
 }
 .section-third-p {
   font-size: 16px;
@@ -352,7 +348,7 @@
 .container {
   width: 1158px;
   padding: 0 15px;
-  margin: auto 0;
+  margin: 0 auto ;
 }
 .div-header .link {
   display: block;
